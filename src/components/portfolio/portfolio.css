@@ -31,15 +31,6 @@
     gap: 1rem;
     margin-bottom: 1rem;
 }
-
-/* MEDIA QUERIES (SMALL DEVICES) */
-
-@media screen and (max-width: 600px) {
-    .portfolio__container {
-        grid-template-columns: 1fr;
-        gap: 1rem;
-    }
-}
   
 /* MEDIA QUERIES (MEDIUM DEVICES) */
   
@@ -50,3 +41,11 @@
     }
 }
 
+/* MEDIA QUERIES (SMALL DEVICES) */
+
+@media only screen and (max-device-width: 600px) {
+    .portfolio__container {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+}
