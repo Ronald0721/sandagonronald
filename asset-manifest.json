@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/sandagonronald/static/css/main.8138fd39.css",
+    "main.css": "/sandagonronald/static/css/main.de949288.css",
     "main.js": "/sandagonronald/static/js/main.36f92831.js",
     "static/media/jinx av.jpg": "/sandagonronald/static/media/jinx av.498f63a676c489b7f0b6.jpg",
     "static/media/garen av.png": "/sandagonronald/static/media/garen av.372fc75654ec2e21e9ad.png",
@@ -16,11 +16,11 @@
     "static/media/project3.webp": "/sandagonronald/static/media/project3.8f21eaa998bf9b092fad.webp",
     "static/media/project4.webp": "/sandagonronald/static/media/project4.4d89002c2480982916e4.webp",
     "index.html": "/sandagonronald/index.html",
-    "main.8138fd39.css.map": "/sandagonronald/static/css/main.8138fd39.css.map",
+    "main.de949288.css.map": "/sandagonronald/static/css/main.de949288.css.map",
     "main.36f92831.js.map": "/sandagonronald/static/js/main.36f92831.js.map"
   },
   "entrypoints": [
-    "static/css/main.8138fd39.css",
+    "static/css/main.de949288.css",
     "static/js/main.36f92831.js"
   ]
 }
