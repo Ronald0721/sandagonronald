@@ -1,13 +1,9 @@
 {
   "files": {
-    "main.css": "/sandagonronald/static/css/main.3db0480c.css",
-    "main.js": "/sandagonronald/static/js/main.4c1d6cc1.js",
-    "static/media/jinx av.jpg": "/sandagonronald/static/media/jinx av.498f63a676c489b7f0b6.jpg",
-    "static/media/garen av.png": "/sandagonronald/static/media/garen av.372fc75654ec2e21e9ad.png",
+    "main.css": "/sandagonronald/static/css/main.14033d9c.css",
+    "main.js": "/sandagonronald/static/js/main.b63f7ec5.js",
     "static/media/Yi-removebg-preview.png": "/sandagonronald/static/media/Yi-removebg-preview.8f4a9043333298aab123.png",
     "static/media/master_yi-removebg-preview.png": "/sandagonronald/static/media/master_yi-removebg-preview.0ad5377087587051c2fd.png",
-    "static/media/zed av.webp": "/sandagonronald/static/media/zed av.165b57a6b377c692464f.webp",
-    "static/media/yasou av.jpg": "/sandagonronald/static/media/yasou av.0dc481412c43f4e69222.jpg",
     "static/media/project1.webp": "/sandagonronald/static/media/project1.d38fb387e8c1f9fb1ba4.webp",
     "static/media/SANDAGON RONALD A.pdf": "/sandagonronald/static/media/SANDAGON RONALD A.bf1af07f24bb6d522696.pdf",
     "static/media/project6.webp": "/sandagonronald/static/media/project6.2503e8e11e62f4855fc0.webp",
@@ -16,11 +12,11 @@
     "static/media/project3.webp": "/sandagonronald/static/media/project3.8f21eaa998bf9b092fad.webp",
     "static/media/project4.webp": "/sandagonronald/static/media/project4.4d89002c2480982916e4.webp",
     "index.html": "/sandagonronald/index.html",
-    "main.3db0480c.css.map": "/sandagonronald/static/css/main.3db0480c.css.map",
-    "main.4c1d6cc1.js.map": "/sandagonronald/static/js/main.4c1d6cc1.js.map"
+    "main.14033d9c.css.map": "/sandagonronald/static/css/main.14033d9c.css.map",
+    "main.b63f7ec5.js.map": "/sandagonronald/static/js/main.b63f7ec5.js.map"
   },
   "entrypoints": [
-    "static/css/main.3db0480c.css",
-    "static/js/main.4c1d6cc1.js"
+    "static/css/main.14033d9c.css",
+    "static/js/main.b63f7ec5.js"
   ]
 }
