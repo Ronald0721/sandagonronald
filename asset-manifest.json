@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sandagonronald/static/css/main.925740d6.css",
-    "main.js": "/sandagonronald/static/js/main.61553c35.js",
+    "main.css": "/sandagonronald/static/css/main.217ee28f.css",
+    "main.js": "/sandagonronald/static/js/main.e0444c0b.js",
     "static/media/about-profile.png": "/sandagonronald/static/media/about-profile.2965b7ba956ed65ca01d.png",
     "static/media/project1.webp": "/sandagonronald/static/media/project1.d38fb387e8c1f9fb1ba4.webp",
     "static/media/SANDAGON, RONALD (CV).pdf": "/sandagonronald/static/media/SANDAGON, RONALD (CV).27d35a59c6e8c892bda5.pdf",
@@ -11,11 +11,11 @@
     "static/media/project3.webp": "/sandagonronald/static/media/project3.8f21eaa998bf9b092fad.webp",
     "static/media/project4.webp": "/sandagonronald/static/media/project4.4d89002c2480982916e4.webp",
     "index.html": "/sandagonronald/index.html",
-    "main.925740d6.css.map": "/sandagonronald/static/css/main.925740d6.css.map",
-    "main.61553c35.js.map": "/sandagonronald/static/js/main.61553c35.js.map"
+    "main.217ee28f.css.map": "/sandagonronald/static/css/main.217ee28f.css.map",
+    "main.e0444c0b.js.map": "/sandagonronald/static/js/main.e0444c0b.js.map"
   },
   "entrypoints": [
-    "static/css/main.925740d6.css",
-    "static/js/main.61553c35.js"
+    "static/css/main.217ee28f.css",
+    "static/js/main.e0444c0b.js"
   ]
 }
